@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md90", null ],
-      [ "Features", "index.html#autotoc_md91", null ],
-      [ "Documentation", "index.html#autotoc_md92", null ],
-      [ "Contributions", "index.html#autotoc_md93", null ]
+      [ "Overview", "index.html#autotoc_md91", null ],
+      [ "Features", "index.html#autotoc_md92", null ],
+      [ "Documentation", "index.html#autotoc_md93", null ],
+      [ "Contributions", "index.html#autotoc_md94", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -133,16 +133,16 @@ var NAVTREEINDEX =
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#aa0e532832640e9fe273b35c481b18963",
-"d2/de1/namespacehouse__robber.html",
-"d4/d68/qr__decompose_8h.html#ad16da2183db22378435042f26af43d5f",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55",
-"d6/d9d/large__factorial_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97",
-"d8/d69/classgraph_1_1_h_k_graph.html#a3d9101e3b4598159005fd028b9b0ff74",
-"d9/d49/kohonen__som__trace_8cpp.html#a042f435bca0839e721fc1574a61e8da3",
-"da/dda/namespaceradix__sort.html",
-"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3",
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9d10768f927baa8a4d4a5ffce295b6b6",
-"functions_func_e.html"
+"d2/dcf/namespacestatistics.html",
+"d4/d68/qr__decompose_8h.html#a6d3c7dce1f142141f509d09f6c0e25dc",
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51",
+"d6/d80/double__hash__hash__table_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d8/d69/classgraph_1_1_h_k_graph.html#a35893def7a1c5cd60907b4893117796f",
+"d9/d44/magic__number_8cpp.html#a8d8e81a7cd59644b311ef9adb268f5f0",
+"da/dd3/namespacespirograph.html",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html",
+"dir_8c4128baa09a573ad2b8b8c0061a04c9.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
